@@ -1,4 +1,6 @@
-aiogram==3.13.1          # या जो वर्जन इस्तेमाल कर रहे हो
+aiogram==3.13.1
+pydantic==2.8.2          # या 2.7.4, 2.6.4 — नए वर्जन में wheels बेहतर हैं
+pydantic-core==2.20.1    # या 2.18.4, 2.16.3 — wheels वाले वर्जन चुनें
 python-dotenv==1.0.1
 aiohttp==3.10.5
 psutil==6.0.0
