@@ -1,0 +1,4 @@
+aiogram==3.13.1          # या जो वर्जन इस्तेमाल कर रहे हो
+python-dotenv==1.0.1
+aiohttp==3.10.5
+psutil==6.0.0
